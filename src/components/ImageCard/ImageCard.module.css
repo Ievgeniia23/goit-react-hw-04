@@ -1,0 +1,30 @@
+.imageWrapper {
+width: 360px;
+height: 460px;
+border: 1px, solid, rgb(80, 48, 110);
+/* transition: cubic-bezier(0.075, 0.82, 0.165, 1); */
+}
+.imageWrapper:hover {
+    /* border-color:rgb(192, 174, 209); */
+    /* transition: cubic-bezier(0.075, 0.82, 0.165, 1); */
+   box-shadow: 0 0 8px 8px rgb(192, 174, 209);
+}
+
+
+.image {
+height: 270px;
+
+}
+
+.descr {
+    padding: 8px;
+}
+
+p {
+    margin: 0;
+    font-weight: 200;
+}
+
+.style {
+    margin-right: 5px;
+}

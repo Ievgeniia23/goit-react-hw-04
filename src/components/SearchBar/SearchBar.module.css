@@ -1,0 +1,26 @@
+.searchBar {
+    display: flex;
+    justify-content: center;
+    margin: auto;
+    gap: 30px;
+    }
+
+
+.input {
+ padding: 10px;
+  border-radius: 4px;
+  width: 300px; 
+  font-size: 18px;
+  color: black;
+  border: 2px, solid, rgb(80, 48, 110);
+}
+
+.btn {
+ padding: 10px;
+   font-size: 18px;
+   margin-left: 30px;
+  
+  border-radius: 4px;
+  background-color: rgb(186, 150, 220);
+ border: 2px, solid, rgb(80, 48, 110);
+}

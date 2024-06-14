@@ -1,0 +1,17 @@
+
+.appContainer {
+     max-width: 1200px;
+  margin: 0 auto;
+  padding: 40px;
+  
+
+}
+
+
+.container {
+ display: flex;
+ justify-content: center;
+ flex-wrap: wrap;
+ gap: 20px; 
+ margin-top: 20px;
+}
